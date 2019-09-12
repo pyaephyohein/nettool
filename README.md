@@ -1,7 +1,7 @@
 ## Read Me
 
 ```bash
-sudo apt instll net-tools
+sudo apt insatll net-tools
 ```
 ```bash
 git clone https://github.com/pyaephyohein/nettool.git 
