@@ -7,5 +7,8 @@ sudo apt instll net-tools
 git clone https://github.com/pyaephyohein/nettool.git 
 ```
 ```bash
+cd nettool
+```
+```bash
 sudo dpkg -i nettool.deb 
 ```
