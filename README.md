@@ -1,5 +1,11 @@
-Read Me
+##Read Me
 
-1 >> sudo apt instll net-tools
-2 >> git clone https://github.com/pyaephyohein/nettool.git
-3 >> sudo dpkg -i nettool.deb
+```bash
+sudo apt instll net-tools
+```
+```bash
+git clone https://github.com/pyaephyohein/nettool.git 
+```
+```bash
+sudo dpkg -i nettool.deb 
+```
